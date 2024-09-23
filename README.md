@@ -3,7 +3,7 @@ _[joran.mussennestje.be](https://joran.mussennestje.be/)_
 
 making dynamic wordpress sites (fully custom themes) for people who need them ;)
 
-web developer
+web developer \n
 | css | html | php |
 and a bit of js
 might be using ts
