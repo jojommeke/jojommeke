@@ -1,13 +1,13 @@
 # Joran Hennion
-_[joran.mussennestje.be](https://joran.mussennestje.be/)_
+_[joran.mussennestje.be](https://joran.mussennestje.be/)_ <br />
 
-~~making dynamic wordpress sites (fully custom themes) for people who need them ;)~~
+~~making dynamic wordpress sites (fully custom themes) for people who need them ;)~~ <br />
 
-still searching for wp alternative that works with/uses react and tailwind
+still searching for wp alternative that works with/uses react and tailwind <br />
 
-haven't used windows in the past 3 years(i think)
-used kde, now uses gnome because it's more polished and less settings to spent too much hours configuring
-distro doesn't matter, i use kernel 6.9 (no it's not a joke)
+haven't used windows in the past 3 years(i think) <br />
+used kde, now uses gnome because it's more polished and less settings to spent too much hours configuring <br />
+distro doesn't matter, i use kernel 6.9 (no it's not a joke) <br />
 
 web developer<br />
 | ~~css~~ tailwind ofc | html | ~~php~~ fuck php, react is better |<br />
