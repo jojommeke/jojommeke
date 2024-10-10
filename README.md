@@ -10,6 +10,6 @@ used kde, now uses gnome because it's more polished and less settings to spent t
 distro doesn't matter, i use kernel 6.9 (no it's not a joke) <br />
 
 web developer<br />
-| ~~css~~ tailwind ofc | html | ~~php~~ fuck php, react is better |<br />
+| ~~css~~ tailwind ofc | html/Jsx/tsx | ~~php~~ fuck php, react is better | nextjs |<br />
 
 **[contact me](mailto:joranhennion@duck.com?subject=[GitHub]%20Source:%20profile%20readme)**
