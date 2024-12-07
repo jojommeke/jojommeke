@@ -7,7 +7,7 @@ still searching for wp alternative that works with/uses react and tailwind <br /
 
 haven't used windows in the past 3 years(i think) <br />
 ~~used kde, now uses gnome because it's more polished and less settings to spend too much hours configuring~~ back to kde again because gnome was to limiting and lacked good screenshot tool <br />
-Fedora 41 (linus torvalds uses fedora 😎) <br />
+Fedora 41 (linus torvalds uses fedora 🤓) <br />
 
 web developer<br />
 | ~~css~~ tailwind ofc | html/Jsx/tsx | ~~php~~ fuck php, react is better | nextjs |<br />
