@@ -2,8 +2,7 @@
 _[joran.mussennestje.be](https://joran.mussennestje.be/)_ <br />
 
 ~~making dynamic wordpress sites (fully custom themes) for people who need them ;)~~ <br />
-
-still searching for wp alternative that works with/uses react and tailwind <br />
+looking into wp headless and cosmicjs <br />
 
 haven't used windows in the past 3 years(i think) <br />
 ~~used kde, now uses gnome because it's more polished and less settings to spend too much hours configuring~~ back to kde again because gnome was to limiting and lacked good screenshot tool <br />
