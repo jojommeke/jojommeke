@@ -12,6 +12,8 @@ web developer<br />
 | ~~css~~ tailwind ofc | html/Jsx/tsx | ~~php~~ fuck php, react is better | nextjs |<br />
 
 **[contact me](mailto:gas-overblown-hazy@duck.com?subject=[GitHub]%20Source:%20profile%20readme)**
+My public ssh key:
+```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOclTNwZw0ojbfwEwtejN/SCMaJZ1Vt4UwhckxzTBgGk deck@bazzite```
 ___
 <p align="center" width="100%">
     <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojommeke&layout=compact&bg_color=0a0e12&text_color=ffffff&title_color=ffffff"> 
