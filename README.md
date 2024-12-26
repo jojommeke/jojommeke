@@ -12,7 +12,7 @@ web developer<br />
 | ~~css~~ tailwind ofc | html/Jsx/tsx | ~~php~~ fuck php, react is better | nextjs |<br />
 
 **[contact me](mailto:gas-overblown-hazy@duck.com?subject=[GitHub]%20Source:%20profile%20readme)** <br /><br />
-My public ssh key:
+My public ssh key: <br />
 ```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOclTNwZw0ojbfwEwtejN/SCMaJZ1Vt4UwhckxzTBgGk deck@bazzite```
 ___
 <p align="center" width="100%">
